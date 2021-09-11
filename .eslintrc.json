@@ -12,6 +12,7 @@
     },
     "rules": {
 		"no-unused-vars": "warn",
-		"no-tabs": "warn"
+		"no-tabs": "warn",
+		"import/extensions": "warn"
     }
 }
